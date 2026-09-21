@@ -12,15 +12,10 @@
 
 I am an AI safety and security researcher, working on trustworthy AI with a focus on misuse and misalignment risks.
 
-
-
-
-
 ### Research Focus
 
-- **Model Misuse & Red Teaming:** Jailbreak evaluations, prompt injection vulnerabilities, and adversarial robustification.
-- **Data & Retrieval Security:** Defenses against RAG poisoning and corrupt training data pipelines.
-- **Trustworthy Systems:** Alignment verification, auditability, and model governance frameworks.
+- **Model Misuse:** Adversarial robustness, jailbreaking prevention, and defense against prompt injection attacks.
+- **Alignment & Multi-agent Systems:** Governance frameworks and runtime monitoring to prevent cascading failures and emergent misbehavior.
 
 
 
